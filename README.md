@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tore M. Hirth</h1>
 <h3 align="center">Currently studying Front-end development at Noroff Vocational School</h3>
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Torehirth](https://github.com/Torehirth)
+/* - 🌱 I’m currently learning **JavaScript** */
 
 - 📫 How to reach me **Torehirth@gmail.com**
 
