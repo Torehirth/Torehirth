@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
 
-<h3 align="left">Aggriculture mechanic turning front-end developer 🚀</h3>
+<p bold>Aggriculture mechanic turning front-end developer 🚀</p>
 <h3 align="left">I love beeing creative and learning new things, and I've always been interested in tech</h3>
 
 <h3>How to reach me:</h3>
