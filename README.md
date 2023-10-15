@@ -3,7 +3,7 @@
 
 ---
 
-<h3>How to reach me: <span>Torehirth@gmail.com</span></h3>
+<h3>How to reach me:</h3><p>Torehirth@gmail.com</p>
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
