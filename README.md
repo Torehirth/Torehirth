@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">Aggriculture mechanic turning front-end developer 🚀</p>
-<p align="left">I love being creative and learning new things, and I've always been interested in tech</p>
+<p align="left">I love being creative and learning new things, and I've always been interested in tech!</p>
 
 ---
 
