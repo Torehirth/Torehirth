@@ -21,13 +21,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=figma,github,vscode,html,css,js)](https://skillicons.dev) 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact" alt="torehirth" /></p>
 
