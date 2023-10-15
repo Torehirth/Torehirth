@@ -1,8 +1,10 @@
 <h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
-<h3 align="left">💻 I'm currently studying Front-end development at Noroff Vocational School </h3>
+
+<h3 align="left">Aggriculture mechanic turning front-end developer 🚀</h3>
+<h3 align="left">I love beeing creative and learning new things, and I've always been interested in tech</h3>
 
 <h3>How to reach me:</h3>
-<p>Torehirth@gmail.com<a href="mailto:torehirth@gmail.com">📧</a></p>
+<p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>
 
 
 <h3 align="left">📧 SoMe channels:</h3>
