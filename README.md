@@ -7,8 +7,9 @@
 ---
 
 <h3>How to reach me:</h3>
-**<p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>**
+<p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>
 
+---
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
@@ -25,10 +26,4 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=torehirth&label=Profile%20views&color=0e75b6&style=flat" alt="torehirth" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&locale=en" alt="torehirth" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=torehirth&" alt="torehirth" /></p>
-
-
