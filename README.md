@@ -1,10 +1,9 @@
 <h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
 <h3 align="left">💻 I'm currently studying Front-end development at Noroff Vocational School </h3>
 
----
-
 <h3>How to reach me:</h3>
-<a href="mailto:torehirth@gmail.com">Send me an E-mail</a>
+<p>Torehirth@gmail.com</p>
+<a href="mailto:torehirth@gmail.com">Click here to send</a>
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
@@ -25,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&locale=en" alt="torehirth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=torehirth&" alt="torehirth" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=torehirth&" alt="torehirth" /></p>
 
 
