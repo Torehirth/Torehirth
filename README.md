@@ -4,8 +4,10 @@
 <p>Aggriculture mechanic turning front-end developer 🚀</p>
 <p>I love beeing creative and learning new things, and I've always been interested in tech</p>
 
-__How to reach me:__
-<p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>
+---
+
+<h3>How to reach me:</h3>
+**<p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>**
 
 
 <h3 align="left">📧 SoMe channels:</h3>
