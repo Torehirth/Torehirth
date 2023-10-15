@@ -3,7 +3,8 @@
 
 ---
 
-<h3>How to reach me:</h3><p>Torehirth@gmail.com</p>
+<h3>How to reach me:</h3>
+<label rel:mailto>Torehirth@gmail.com</label>
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
