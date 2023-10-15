@@ -2,8 +2,8 @@
 <h3 align="left">💻 I'm currently studying Front-end development at Noroff Vocational School </h3>
 
 <h3>How to reach me:</h3>
-<p>Torehirth@gmail.com</p>
-<a href="mailto:torehirth@gmail.com">Click here to send</a>
+<p>Torehirth@gmail.com<a href="mailto:torehirth@gmail.com">📧</a></p>
+
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
