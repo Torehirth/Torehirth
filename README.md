@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, My name is Tore M. Hirth</h1>
-<h3 align="center">💻 I'm currently studying Front-end development at Noroff Vocational School </h3>
+<h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
+<h3 align="left">💻 I'm currently studying Front-end development at Noroff Vocational School </h3>
 
 ---
 
-- 📫 How to reach me **Torehirth@gmail.com**
+📫 How to reach me **Torehirth@gmail.com**
 
-<h3 align="left">📧 Connect with me:</h3>
+<h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
 <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=torehirth&" alt="torehirth" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torehirth" alt="torehirth" /></a> </p>
+
