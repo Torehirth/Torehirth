@@ -1,17 +1,17 @@
-<h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
+<h1 align="left">👋 Hi, I'm Tore M. Hirth</h1>
 
-<h3>About me</h3>
-<p>Aggriculture mechanic turning front-end developer 🚀</p>
-<p>I love beeing creative and learning new things, and I've always been interested in tech</p>
-
----
-
-<h3>How to reach me:</h3>
-<h3><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</h3>
+<h3 align="left">About me</h3>
+<p align="left">Aggriculture mechanic turning front-end developer 🚀</p>
+<p align="left">I love being creative and learning new things, and I've always been interested in tech</p>
 
 ---
 
-<h3 align="left">📧 SoMe channels:</h3>
+<h3 align="left">How to reach me:</h3>
+<h3 align="left"><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</h3>
+
+---
+
+<h3 align="left">🙋 My channels:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
 <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
