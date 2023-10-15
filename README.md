@@ -4,7 +4,7 @@
 ---
 
 <h3>How to reach me:</h3>
-<label rel:mailto>Torehirth@gmail.com</label>
+<a href="mailto:torehirth@gmail.com">Send me an E-mail</a>
 
 <h3 align="left">📧 SoMe channels:</h3>
 <p align="left">
