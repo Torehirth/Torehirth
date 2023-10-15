@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, My name is Tore M. Hirth</h1>
 
-<p bold>Aggriculture mechanic turning front-end developer 🚀</p>
-<h3 align="left">I love beeing creative and learning new things, and I've always been interested in tech</h3>
+<p>Aggriculture mechanic turning front-end developer 🚀</p>
+<p bold>I love beeing creative and learning new things, and I've always been interested in tech</p>
 
 <h3>How to reach me:</h3>
 <p><a href="mailto:torehirth@gmail.com">📧</a>Torehirth@gmail.com</p>
