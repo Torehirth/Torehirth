@@ -7,7 +7,7 @@
 ---
 
 <h3>How to reach me:</h3>
-<h3><a href="mailto:torehirth@gmail.com">📧</a></h3><p>Torehirth@gmail.com</p>
+<h3><a href="mailto:torehirth@gmail.com">📧</a></h3> - <p>Torehirth@gmail.com</p>
 
 ---
 
