@@ -17,7 +17,7 @@
   </a>
 </p>
 
----
+<h1>Stats:</h1>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF" alt="torehirth" /></p>
 
