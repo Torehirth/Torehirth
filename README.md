@@ -16,11 +16,8 @@
 <h3 align="left">How to reach me:</h3>
 <h3 align="left"><a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> Torehirth@gmail.com</h3>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css" />
   </a>
