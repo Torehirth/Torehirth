@@ -5,7 +5,7 @@
 **I love being creative and learning new things, and I've always been interested in tech!**
 
 <p font-weight="bold">I love being creative and learning new things, and I've always been interested in tech!</p>
-<p></p>
+<p>I love being creative and learning new things, and I've always been interested in tech!</p>
 
 ---
 
