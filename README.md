@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Tore+)](https://git.io/typing-svg)
 
-<h1 align="left">Hi, I'm Tore M. Hirth</h1>
-
-<h3 align="left">About me:</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&random=false&width=435&lines=Agriculture+mechanic+turning+front-end+developer+%F0%9F%9A%80;I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
-
-**Agriculture mechanic turning front-end developer** 🚀 </br>
-**I love being creative and learning new things, and I've always been interested in tech!**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=64CCC5&center=true&multiline=true&random=false&width=500&lines=Agriculture+mechanic+turning+front-end+developer+%F0%9F%9A%80;I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
 
 ---
 
