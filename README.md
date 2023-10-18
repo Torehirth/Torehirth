@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=60000&color=40F8FF&vCenter=true&multiline=true&random=false&width=1000&lines=Hi%2C+I'm+Tore+%F0%9F%99%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=33BBC5&vCenter=true&multiline=true&random=false&width=1000&lines=Agriculture+mechanic+turning+Front-End+Developer!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=33BBC5&vCenter=true&multiline=true&random=false&width=1000&lines=I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=40F8FFFF&vCenter=true&multiline=true&random=false&width=1000&lines=Agriculture+mechanic+turning+Front-End+Developer🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=40F8FFFF&vCenter=true&multiline=true&random=false&width=1000&lines=I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
 
 ---
 
