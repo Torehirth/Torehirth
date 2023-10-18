@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Tore+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=64CCC5&center=true&multiline=true&random=false&width=500&lines=Agriculture+mechanic+turning+front-end+developer+%F0%9F%9A%80;I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=33BBC5&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Agriculture+mechanic+turning+front-end+developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=60000&color=33BBC5&center=true&vCenter=true&multiline=true&random=false&width=1000&lines=I+love+being+creative+and+learning+new+things%2C+and+I've+always+been+interested+in+tech!)](https://git.io/typing-svg)
 
 ---
 
