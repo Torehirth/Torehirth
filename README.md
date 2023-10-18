@@ -9,19 +9,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
 <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
-<a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-
 ---
-
 
 <h3 align="left">How to reach me:</h3>
 <h3 align="left"><a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> Torehirth@gmail.com</h3>
 
-
 ---
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,8 +29,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF" alt="torehirth" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=issues,stars&show=prs_merged&rank_icon=github&title_colot=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
