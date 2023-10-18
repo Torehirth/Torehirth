@@ -5,11 +5,13 @@
 
 ---
 
-<h3 align="left">Take a look || Reach out:</h3>
+<h3 align="left">Take a look && || Reach out:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
 <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
-<a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> Torehirth@gmail.com</p>
+</p>
+
+<p><a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> Torehirth@gmail.com</p>
 
 ---
 
