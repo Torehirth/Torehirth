@@ -27,6 +27,6 @@
   </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=#2F81F7&text_color=#64CCC5" alt="torehirth" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=64CCC5" alt="torehirth" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=issues,stars&show=prs_merged&rank_icon=github&title_colot=#2F81F7&text_color=#64CCC5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=issues,stars&show=prs_merged&rank_icon=github&title_colot=2F81F7&text_color=64CCC5)
