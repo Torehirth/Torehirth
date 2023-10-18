@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=5000&pause=6000&color=40F8FF&vCenter=true&multiline=true&random=false&width=1000&lines=Hi%2C+I'm+Tore+%F0%9F%99%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=5000&pause=6000&color=40F8FF&hCenter=true&vCenter=true&multiline=true&random=false&width=1000&lines=Hi%2C+I'm+Tore+%F0%9F%99%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=Agriculture+mechanic+turning+Front-End+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=I+love+being+creative%2C+learning+new+things+and+I've+always+been+interested+in+tech!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&hCenter=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=Agriculture+mechanic+turning+Front-End+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&hCenter=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=I+love+being+creative%2C+learning+new+things+and+I've+always+been+interested+in+tech!+)](https://git.io/typing-svg)
 
 ---
 
@@ -25,4 +25,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF" alt="torehirth" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hCenter=true&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
