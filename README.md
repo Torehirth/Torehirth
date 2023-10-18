@@ -29,4 +29,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact" alt="torehirth" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth)](https://github.com/torehirth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&layout=donut)](https://github.com/torehirth/github-readme-stats)
