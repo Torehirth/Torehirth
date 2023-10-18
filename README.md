@@ -4,7 +4,7 @@
 **Agriculture** mechanic turning front-end developer** 🚀
 
 
-<p weight="bold">I love being creative and learning new things, and I've always been interested in tech!</p>
+<p strong>I love being creative and learning new things, and I've always been interested in tech!</p>
 <p>I love being creative and learning new things, and I've always been interested in tech!</p>
 
 ---
