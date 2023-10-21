@@ -12,7 +12,7 @@
 <h1 align="left">Languages & Tools:</h1>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin/torehirth">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css" />
   </a>
 </p>
