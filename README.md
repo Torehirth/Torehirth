@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=1000&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=github%2CGitHub%40F8FFFF%3Bgit%2CGit%40F8FFFF%3Bfigma%2CFigma%40F8FFFF%3Bhtml5%2Chtml%40F8FFFF%3Bcss3%2Ccss%40F8FFFF%3Bjavascript%2CJavaScript%40F8FFFF%3B" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=650&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=github%2CGitHub%40F8FF%3Bgit%2CGit%40F8FF%3Bfigma%2CFigma%40F8FF%3Bhtml5%2Chtml%40F8FF%3Bcss3%2Ccss%40F8FF%3Bjavascript%2CJavaScript%440F8FF%3B" alt="My Tech Stack" />
 
 <h1>Stats:</h1>
 
