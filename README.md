@@ -25,4 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
 
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)]([https://shields.io/](https://tore-hirth-rainy-days.netlify.app/index.html)https://tore-hirth-rainy-days.netlify.app/index.html)
+[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://tore-hirth-rainy-days.netlify.app/index.html)
