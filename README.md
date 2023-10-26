@@ -22,3 +22,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF" alt="torehirth" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?link=https%3A%2F%2Ftore-hirth-rainy-days.netlify.app%2Findex.html">
