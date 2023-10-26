@@ -25,5 +25,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
 
-[![General badge](https://img.shields.io/badge/Rainy_Days_blue.svg)](https://tore-hirth-rainy-days.netlify.app/index.html)
+[![General badge](https://img.shields.io/badge/Visit_website:_Rainy_Days-blue?logo=➡️&logoColor=fff&style=flat.svg)](https://tore-hirth-rainy-days.netlify.app/index.html)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/12299287/cryptocode)
