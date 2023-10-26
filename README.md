@@ -22,3 +22,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF" alt="torehirth" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torehirth&show_icons=true&theme=transparent&hide=stars&show=prs_merged&rank_icon=github&title_color=2F81F7&text_color=40F8FFFF&border_color=40F8FFFF)
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF" alt="My Tech Stack" />
