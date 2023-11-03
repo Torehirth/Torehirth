@@ -4,6 +4,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=I+love+being+creative%2C+learning+new+things+and+I've+always+been+interested+in+tech!+)](https://git.io/typing-svg)
 
 <h1 align="left">Connect:</h1>
+
+<p>
+  <a href="https://www.linkedin.com/in/torehirth">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/torehirth">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
 <p align="left">
 <a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
 <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
