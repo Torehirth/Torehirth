@@ -9,11 +9,11 @@
   <a href="https://www.linkedin.com/in/torehirth">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <span></span>
+  
   <a href="https://www.instagram.com/torehirth">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <span></span>
+
   <a href="https://www.instagram.com/torehirth">
     <img src="https://skillicons.dev/icons?i=letter" />
   </a>
