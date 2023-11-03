@@ -4,18 +4,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&color=40F8FF&vCenter=true&multiline=true&repeat=false&random=false&width=1000&lines=I+love+being+creative%2C+learning+new+things+and+I've+always+been+interested+in+tech!+)](https://git.io/typing-svg)
 
 <h1 align="left">Connect:</h1>
-
-<p align="left">
+<div>
+<p align="">
   <a href="https://www.linkedin.com/in/torehirth">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   </p>
-<p align="center">
+<p align="">
   <a href="https://www.instagram.com/torehirth">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-<p align="right">
+</div>
+<p align="">
   <a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> 
 </p>
 
