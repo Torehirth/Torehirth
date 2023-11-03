@@ -15,7 +15,7 @@
   </a>
   <span></span>
   <a href="https://www.instagram.com/torehirth">
-    <img src="https://skillicons.dev/icons?i=mail" />
+    <img src="https://skillicons.dev/icons?i=letter" />
   </a>
   <span></span>
   <a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> 
