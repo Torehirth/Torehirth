@@ -6,14 +6,16 @@
 <h1 align="left">Connect:</h1>
 
 <p align="left">
-  <span>
   <a href="https://www.linkedin.com/in/torehirth">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  </p>
+<p align="center">
   <a href="https://www.instagram.com/torehirth">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- </span>
+</p>
+<p align="right">
   <a href="mailto:torehirth@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="40"/></a> 
 </p>
 
