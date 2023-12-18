@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css,js" />
   </a>
 </p>
 
