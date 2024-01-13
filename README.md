@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, My name is Tore M. Hirth</h1>
 
-<h3 align="left">About me:</h3>
+<h3 align="left" color"blue">About me:</h3>
 <h4 align="left">Aggriculture mechanic turning front-end developer! 🚀</h4>
 <h4 align="left">I'm currently studying Front-end development at Noroff Vocational School.</h4>
 <h4 align="left">I love being creative and learning new things, and I've always been interested in tech!</h4>
