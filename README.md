@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, My name is Tore M. Hirth</h1>
+<h1 align="left">Hi 👋, My name is Tore</h1>
 
 <h3 align="left">About me:</h3>
 <h4 align="left">Aggriculture mechanic turning front-end developer! 🚀</h4>
