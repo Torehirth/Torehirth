@@ -32,11 +32,10 @@
 
 ---
 
-Projects:
+Ongoing Projects:
 
  - [Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
  - [Rainy Days](https://github.com/Torehirth/Rainy-Days)
- - [Semester Project 1](https://github.com/Torehirth/Semester-Project-1)
 
 
 
