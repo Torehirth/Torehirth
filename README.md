@@ -32,7 +32,9 @@
 
 ---
 
-[Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
+Projects:
+
+ - [Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
 
 
 
