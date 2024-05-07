@@ -30,6 +30,9 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=torehirth&show_icons=true&locale=en&layout=compact" alt="torehirth" /></p>
 
+---
+
+[Project Exam 1]([https://github.com/vuejs/vue](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
 
 
 
