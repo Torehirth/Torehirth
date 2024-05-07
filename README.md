@@ -32,7 +32,7 @@
 
 ---
 
-[Project Exam 1]([https://github.com/vuejs/vue](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
+[Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
 
 
 
