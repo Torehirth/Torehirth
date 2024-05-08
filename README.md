@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=e6edf3&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
+<a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=105823&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
 
 ---
 
