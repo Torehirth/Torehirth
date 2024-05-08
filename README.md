@@ -5,8 +5,8 @@
 <h4 align="left">I'm studying Front-end development at Noroff Vocational School.</h4>
 <h4 align="left">I love being creative and learning new things, and I've always been interested in tech!</h4>
 ---
-<h4 align="left">Currently learning more about CMS and vanilla JavaScript</h4>
-<h4 align="left">Based in Bergen, Norway</h4>
+<h4 align="left">🧑‍💻 Currently learning more about CMS and vanilla JavaScript</h4>
+<h4 align="left">📍 Based in Bergen, Norway</h4>
 
 ---
 
