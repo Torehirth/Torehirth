@@ -11,8 +11,8 @@
 <h3 align="left">Ongoing Projects:</h3>
 
 
-<li><a href="https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth">Project Exam 1</a></li>
-<li><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
+<li align="left"><a href="https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth">Project Exam 1</a></li>
+<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
 
 ---
 
