@@ -1,5 +1,3 @@
-<h1 align="left">Hi 👋, My name is Tore</h1>
-
 <h3 align="left">About me:</h3>
 
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
@@ -25,7 +23,7 @@
 ---
 
 <h3 align="left">How to reach me:</h3>
-<h3 align="left"><a href="mailto:torehirth@gmail.com">📧</a> Torehirth@gmail.com</h3>
+<p align="left"><a href="mailto:torehirth@gmail.com">📧</a> Torehirth@gmail.com</p>
 
 ---
 
