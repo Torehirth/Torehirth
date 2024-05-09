@@ -12,8 +12,7 @@
 
 
 <li><a href="https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth">Project Exam 1</a></li>
-     [Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth)
- - [Rainy Days](https://github.com/Torehirth/Rainy-Days)
+<li><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
 
 ---
 
