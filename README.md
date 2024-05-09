@@ -24,7 +24,7 @@
 ---
 
 <h3 align="left">How to reach me:</h3>
-<a href="mailto:torehirth@gmail.com" color="fff">📧 Torehirth@gmail.com</a>
+<a href="mailto:torehirth@gmail.com" color="#fff">📧 Torehirth@gmail.com</a>
 
 ---
 
