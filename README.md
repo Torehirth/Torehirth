@@ -4,7 +4,6 @@
 <h4 align="left">Aggriculture mechanic turning front-end developer! 🚀</h4>
 <h4 align="left"> Currently learning more about CMS and vanilla JavaScript 🧑‍💻</h4>
 <h4 align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</h4>
-<h4 align="left">📍 Bergen, Norway</h4>
 
 ---
 
