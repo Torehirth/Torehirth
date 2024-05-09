@@ -1,10 +1,9 @@
 <h1 align="left">Hi 👋, My name is Tore</h1>
 
 <h3 align="left">About me:</h3>
-<h4 align="left">Aggriculture mechanic turning front-end developer! 🚀</h4>
+<h4 align="left">🛠️🔧 Aggriculture mechanic turning front-end developer! 🚀</h4>
 <h4 align="left">🧑‍💻 Currently learning more about CMS and vanilla JavaScript</h4>
-<h4 align="left">![CapooCapooTypeGIF](https://github.com/Torehirth/Torehirth/assets/116200852/ab6e33fb-1901-4bd4-998a-67633deea846)
- I love being creative and learning new things, and I've always been interested in tech!</h4>
+<h4 align="left">🧑‍💻 Love being creative and learning new things, and I've always been interested in tech!</h4>
 <h4 align="left">📍 Based in Bergen, Norway</h4>
 
 ---
