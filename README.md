@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tore M. Hirth LinkedIn"  /></a>
-  <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Tore M. Hirth instagramr"  /></a>
+  <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-%C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Tore M. Hirth instagramr"  /></a>
 </p>
 
 ---
