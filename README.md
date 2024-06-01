@@ -26,6 +26,11 @@
 <h3 align="left">How to reach me:</h3>
 <a href="mailto:torehirth@gmail.com">📧 Torehirth@gmail.com</a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tore M. Hirth LinkedIn"  /></a>
+  <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Tore M. Hirth instagramr"  /></a>
+</p>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +41,12 @@
   </a>
 </p>
 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/reetbatra/count.svg)
