@@ -26,7 +26,7 @@
 <h3 align="left">How to reach me:</h3>
 <a href="mailto:torehirth@gmail.com">📧 Torehirth@gmail.com</a>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tore M. Hirth LinkedIn"  /></a>
   <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Tore M. Hirth instagramr"  /></a>
 </p>
@@ -35,12 +35,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<!--
 <p align="left">
   <a href="https://linkedin.com/in/torehirth">
     <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css,javascript,wordpress" />
   </a>
-</p>
-
+</p> 
+-->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
