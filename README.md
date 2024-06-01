@@ -46,13 +46,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23121011.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23121011.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Trello](https://img.shields.io/badge/Trello-%23121011.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%333333.svg?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%333333.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%333333.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%333333.svg?style=for-the-badge&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%333333.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Trello](https://img.shields.io/badge/Trello-%333333.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
 
