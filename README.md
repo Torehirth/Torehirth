@@ -44,7 +44,11 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCODE-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![FIGMA](https://img.shields.io/badge/FIGMA-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/WORDPRESS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
 
