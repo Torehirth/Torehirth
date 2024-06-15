@@ -51,7 +51,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-212121.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-212121.svg?style=for-the-badge&logo=git&logoColor=red)
-![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=green)
+![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=light-green)
 ![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=Trello&logoColor=blue)
 
 
