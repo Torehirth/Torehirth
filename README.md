@@ -43,7 +43,7 @@
 </p> 
 -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=light-yellow)
 ![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=blue)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
