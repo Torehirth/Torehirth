@@ -43,16 +43,16 @@
 </p> 
 -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-212121.svg?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Figma](https://img.shields.io/badge/figma-212121.svg?style=for-the-badge&logo=figma&logoColor=red)
+![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/github-212121.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-212121.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/git-212121.svg?style=for-the-badge&logo=git&logoColor=red)
+![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=green)
+![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=Trello&logoColor=blue)
 
 
 <h3 align="left"></h3>
