@@ -43,7 +43,7 @@
 </p> 
 -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -51,7 +51,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-212121.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-212121.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
