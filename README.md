@@ -16,7 +16,7 @@
 ---
 
 <h3 align="left">How to reach me:</h3>
-<p>Email: Torehirth [at] gmail.com</p>
+<p>Email: torehirth [at] gmail.com</p>
 <p></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-212121?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Tore M. Hirth LinkedIn"  /></a>
