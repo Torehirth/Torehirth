@@ -12,19 +12,11 @@
 <li align="left"><a href="https://github.com/Noroff-FEU-Assignments/project-exam-1-Torehirth">Project Exam 1</a></li>
 <li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
 
----
-
-<h3 align="left">My channels:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="torehirth" height="30" width="40" /></a>
-<a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torehirth" height="30" width="40" /></a>
-</p>
-
 
 ---
 
 <h3 align="left">How to reach me:</h3>
-<p>Email: </li><a href="mailto:torehirth@gmail.com">Torehirth@gmail.com</a></p>
+<p>Email: </li><a href="mailto:torehirth@gmail.com">Torehirth [at] gmail.com</a></p>
 <p></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Tore%20Hirth-212121?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Tore M. Hirth LinkedIn"  /></a>
