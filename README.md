@@ -20,7 +20,7 @@
 <p></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-212121?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Tore M. Hirth LinkedIn"  /></a>
-  <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-212121.svg?style=for-the-badge&logo=instagram&logoColor=magenta" alt="Tore M. Hirth instagramr"  /></a>
+  <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-212121.svg?style=for-the-badge&logo=instagram&logoColor=#8a49a1" alt="Tore M. Hirth Instagram"  /></a>
 </p>
 
 ---
