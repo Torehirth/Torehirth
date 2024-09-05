@@ -1,7 +1,7 @@
 <h3 align="left">About me:</h3>
 
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
-<li align="left">Currently learning more about CMS and vanilla JavaScript 🧑‍💻</li>
+<li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
 
 ---
