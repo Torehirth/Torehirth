@@ -27,13 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!--
-<p align="left">
-  <a href="https://linkedin.com/in/torehirth">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,html,css,javascript,wordpress" />
-  </a>
-</p> 
--->
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=light-yellow)
 ![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=red)
