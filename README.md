@@ -10,7 +10,7 @@
 
 <li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About</a></li>
 <li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
-
+<li align="left"><a href="https://github.com/Torehirth/portfolio">Portfolio</a></li>
 
 ---
 
