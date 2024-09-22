@@ -9,7 +9,7 @@
 <h3 align="left">Ongoing Projects:</h3>
 <li align="left"><a href="https://github.com/Torehirth/portfolio">My portfolio</a></li>
 <li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About | Blog website</a></li>
-<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a><p> | Online store for jackets</p></li>
+<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days<p> | Online store for jackets</p></a></li>
 
 
 ---
