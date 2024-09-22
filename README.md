@@ -7,13 +7,10 @@
 ---
 
 <h3 align="left">Ongoing Projects:</h3>
+<li align="left"><a href="https://github.com/Torehirth/portfolio">My portfolio</a></li>
+<li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About | Blog website</a></li>
+<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days | Online store for jackets</a></li>
 
-<div><li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About</a></li>
-<p align="left"><img height="150px" src="https://github.com/user-attachments/assets/0b83b4a2-3beb-4030-90ea-fe12d550bc2c" alt="gif of landing page" /></p>
-</div>
-
-<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days</a></li>
-<li align="left"><a href="https://github.com/Torehirth/portfolio">Portfolio</a></li>
 
 ---
 
