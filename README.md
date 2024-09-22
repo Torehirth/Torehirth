@@ -8,8 +8,8 @@
 
 <h3 align="left">Ongoing Projects:</h3>
 <li align="left"><a href="https://github.com/Torehirth/portfolio">My portfolio</a></li>
-<li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About | Blog website</a></li>
-<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days<span> | Online store for jackets</span></a></li>
+<li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About - Blog website</a></li>
+<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days - Online store for jackets</a></li>
 
 
 ---
