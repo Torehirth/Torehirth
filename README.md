@@ -1,14 +1,15 @@
-<h1>Hi, my name is Tore M. Hirth</h1>
+<h1>Hi, my name is Tore M. Hirth👋</h1>
 
 <!-- About me -->
-<h2 align="left">About me</h2>
+<h2 align="left">![ScalerCreateImpactGIF](https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398)
+ About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
 
 <!-- Ongoing projects -->
 <details open> 
-  <summary><h2>My ongoing Projects</h2></summary>  
+  <summary><h2>👨‍💻 My ongoing Projects</h2></summary>  
 <p align="left">
 <a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/out-n-about"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=out-n-about&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
