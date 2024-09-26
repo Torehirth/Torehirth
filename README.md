@@ -10,8 +10,7 @@
 </table>
 
 <!-- About me -->
-<h2 align="left">
- About me</h2>
+<h2 align="left">🧗 About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
@@ -28,7 +27,7 @@
 </details>
 
 <!-- Contact information -->
-<h2 align="left">How to reach me</h2>
+<h2 align="left">📞☎️ How to reach me</h2>
 <p>Email: torehirth [at] gmail.com</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-212121?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Tore M. Hirth LinkedIn"  /></a>
@@ -36,7 +35,7 @@
 </p>
 
 <!-- Programming languages and tools -->
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">💾 Languages and Tools</h2>
 <!-- Program icons -->
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
