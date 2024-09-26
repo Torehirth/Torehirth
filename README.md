@@ -1,7 +1,11 @@
-<div style="display: inline-block;">
-<h1>Hi, my name is Tore M. Hirth👋</h1>
-<img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="max-width: 500px;">
-</div>
+<table>
+  <tr>
+    <td><h1>Hi, my name is Tore M. Hirth👋</h1>
+    <img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="max-width: 500px;">
+    </td>
+  </tr>
+</table>
+
 <!-- About me -->
 <h2 align="left">
  About me</h2>
