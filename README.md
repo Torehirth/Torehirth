@@ -6,15 +6,8 @@
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
 
-
-<h3 align="left">My ongoing Projects:</h3>
-<li align="left"><a href="https://github.com/Torehirth/portfolio">My portfolio</a></li>
-<li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About - Blog website</a></li>
-<li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days - Online store for jackets</a></li>
-
 <details open> 
-  <summary><h2>My ongoing Projects</h2></summary>
-  
+  <summary><h2>My ongoing Projects</h2></summary>  
 <p align="left">
 <a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/out-n-about"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=out-n-about&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
