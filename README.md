@@ -1,6 +1,7 @@
 <h1>Hi, my name is Tore M. Hirth👋</h1>
 
-![ScalerCreateImpactGIF](https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398)
+<img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="max-width: 500px;">
+
 
 <!-- About me -->
 <h2 align="left">
@@ -31,17 +32,7 @@
 <!-- Programming languages and tools -->
 <h2 align="left">Languages and Tools</h2>
 <!-- Program icons -->
-![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
-![Figma](https://img.shields.io/badge/Figma-212121.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
-![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=%23117AC9)
-![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-212121.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
-![Netlify](https://img.shields.io/badge/Netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=trello&logoColor=%230075B7)
-
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3">
@@ -52,7 +43,7 @@
 <img src="https://img.shields.io/badge/Git-212121.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git">
 <img src="https://img.shields.io/badge/Netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
 <img src="https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=trello&logoColor=%230075B7" alt="Trello">
-
+</p>
 
 <!-- Most used languages -->
 <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
