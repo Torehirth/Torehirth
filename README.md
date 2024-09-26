@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=trello&logoColor=%230075B7" alt="Trello">
     </td>
     <td>
-      <img style="width: 400px;" <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>>
+      <img style="width: 400px;" <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
     </td>
   </tr>
 </table>
