@@ -9,11 +9,15 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- About me -->
 <h2 align="left">🧗 About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
+
+<br/>
 
 <!-- Ongoing projects -->
 <details open> 
@@ -26,6 +30,8 @@
 </p>
 </details>
 
+<br/>
+
 <!-- Contact information -->
 <h2 align="left">☎️ How to reach me</h2>
 <p>Email: torehirth [at] gmail.com</p>
@@ -33,6 +39,8 @@
   <a href="https://www.linkedin.com/in/torehirth/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-212121?style=for-the-badge&logo=linkedin&logoColor=blue" alt="Tore M. Hirth LinkedIn"  /></a>
   <a href="https://instagram.com/torehirth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-212121.svg?style=for-the-badge&logo=instagram&logoColor=8a49a1" alt="Tore M. Hirth Instagram"  /></a>
 </p>
+
+<br/>
 
 <!-- Programming languages and tools -->
 <h2 align="left">💾 Languages and Tools</h2>
