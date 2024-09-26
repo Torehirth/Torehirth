@@ -12,7 +12,7 @@
 <br/>
 
 <!-- About me -->
-<h2 align="left"><img style="width: 50px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />  About me</h2>
+<h2 align="left"><img style="width: 25px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />  About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
 <li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
