@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
+<img align="center" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
 <h1>My name is Tore M. Hirth</h1>
 
 <h2 align="left">About me</h2>
@@ -26,7 +26,6 @@
 
 
 <h2 align="left">Languages and Tools</h2>
-<p align="left">
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=light-yellow)
 ![HTML5](https://img.shields.io/badge/html5-212121.svg?style=for-the-badge&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/css3-212121.svg?style=for-the-badge&logo=css3&logoColor=blue)
@@ -37,9 +36,7 @@
 ![Git](https://img.shields.io/badge/git-212121.svg?style=for-the-badge&logo=git&logoColor=red)
 ![Netlify](https://img.shields.io/badge/netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=light-green)
 ![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=Trello&logoColor=blue)
-</p>
 
-<h2 align="left">Stats</h2>
 <a href="https://github.com/torehirth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=10&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
 
 <!--
