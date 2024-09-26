@@ -11,7 +11,7 @@
 <li align="left"><a href="https://github.com/Torehirth/out-n-about">Out 'n About - Blog website</a></li>
 <li align="left"><a href="https://github.com/Torehirth/Rainy-Days">Rainy Days - Online store for jackets</a></li>
 
-<a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="portfolio"></a>
+<a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="portfolio"></a>
 
 
 
