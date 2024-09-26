@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1>Hi, my name is Tore M. Hirth👋</h1>
-      <img align="center" style="width: 50px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
+      <img align="middle" style="width: 50px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="width: 300px;">
