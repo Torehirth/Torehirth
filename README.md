@@ -5,7 +5,7 @@
       <h1>Tore M. Hirth👋</h1>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="max-width: 500px;">
+      <img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="max-width: 300px;">
     </td>
   </tr>
 </table>
