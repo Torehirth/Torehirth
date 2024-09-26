@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hi, my name is   <img style="width: 30px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />ore M. Hirth</h1>
+      <h1>Hi, my name is  <img style="width: 30px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />ore M. Hirth</h1>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398" alt="ScalerCreateImpactGIF" style="width: 300px;">
