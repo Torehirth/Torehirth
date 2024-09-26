@@ -1,7 +1,9 @@
 <h1>Hi, my name is Tore M. Hirth👋</h1>
 
+![ScalerCreateImpactGIF](https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398)
+
 <!-- About me -->
-<h2 align="left">![ScalerCreateImpactGIF](https://github.com/user-attachments/assets/d9579cd9-1f35-4f94-9ad9-573ba907b398)
+<h2 align="left">
  About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
 <li align="left">Currently learning more about CMS and JavaScript 🧑‍💻</li>
@@ -47,6 +49,18 @@
 <p align="center">
   <img align="center" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
 </p>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC)
+![Figma](https://img.shields.io/badge/Figma-212121.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![WordPress](https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=%23117AC9)
+![GitHub](https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-212121.svg?style=for-the-badge&logo=git&logoColor=%23F05032)
+![Netlify](https://img.shields.io/badge/Netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+![Trello](https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=trello&logoColor=%230075B7)
+
 
 <!--
 <h3>Visitors:</h3>
