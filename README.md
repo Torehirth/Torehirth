@@ -1,3 +1,5 @@
+<h1>My name is <img src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" /> ORE M. HIRTH</h1>
+
 <h3 align="left">About me:</h3>
 
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
