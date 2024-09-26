@@ -1,4 +1,7 @@
-<img align="center" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
+<p align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />
+</p>
+
 <h1>My name is Tore M. Hirth</h1>
 
 <h2 align="left">About me</h2>
