@@ -23,7 +23,8 @@
 <details open> 
   <summary><h2>👨‍💻 My ongoing Projects</h2></summary>  
 <p align="left">
-<a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=transparent&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
+<a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=transparent&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=default&show_icons=true" alt="portfolio"></a>
+<a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/out-n-about"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=out-n-about&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/Rainy-Days"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=Rainy-Days&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/Semester-Project-1"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=Semester-Project-1&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
