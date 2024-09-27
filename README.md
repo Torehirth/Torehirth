@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/Git-212121.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git">
 <img src="https://img.shields.io/badge/Netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
 <img src="https://img.shields.io/badge/Trello-212121.svg?style=for-the-badge&logo=trello&logoColor=%230075B7" alt="Trello">
+<img src="https://img.shields.io/badge/SASS-212121.svg?style=for-the-badge&logo=sass&logoColor=%230075B7" alt="SASS">
     </td>
     <br/>
     <td>
