@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
     <br/>
-    <td width="450px">
+    <td style="max-width: 450px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" />
     </td>
   </tr>
