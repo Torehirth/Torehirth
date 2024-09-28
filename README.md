@@ -46,7 +46,7 @@
 <h2 align="left">💾 Languages and Tools</h2>
 <table>
   <tr>
-    <td style="max-width: 450px;">
+    <td max-width="450px">
 <img src="https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3">
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
     <br/>
-    <td style="max-width: 450px;">
+    <td width="450px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" />
     </td>
   </tr>
