@@ -61,7 +61,7 @@
     </td>
     <br/>
     <td>
-      <a href="https://github.com/torehirth" align="left" width="350px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
+      <a href="https://github.com/torehirth" align="left" width="500px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" /></a>
     </td>
   </tr>
 </table>
