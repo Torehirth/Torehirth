@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3">
 <img src="https://img.shields.io/badge/SASS-212121.svg?style=for-the-badge&logo=sass&logoColor=%CC6699" alt="SASS">
+<img src="https://img.shields.io/badge/Tailwindcss-212121.svg?style=for-the-badge&logo=sass&logoColor=%CC6699" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/Figma-212121.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E" alt="Figma">
 <img src="https://img.shields.io/badge/Git-212121.svg?style=for-the-badge&logo=git&logoColor=%23F05032" alt="Git">
 <img src="https://img.shields.io/badge/Netlify-212121.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
