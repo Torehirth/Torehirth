@@ -14,8 +14,8 @@
 <!-- About me -->
 <h2 align="left"><img style="width: 20px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />  About me</h2>
 <li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
-<li align="left">Currently taking a deeper dive into JavaScript 🧑‍💻</li>
-<li align="left">Love being creative and learning new things, and I've always been interested in tech! 🎨</li>
+<li align="left">Currently following Noroff's front-end development study program and diving into React outside of this 🧑‍💻</li>
+<li align="left"> I love being creative and learning new things, and I've always been interested in tech! 🎨</li>
 
 <br/>
 
