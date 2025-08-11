@@ -23,6 +23,7 @@
 <details open> 
   <summary><h2>👨‍💻 My ongoing Projects</h2></summary>  
 <p align="left">
+<a href="https://github.com/Torehirth/Bid-Rally"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=Bid-Rally&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="Bid Rally"></a>
 <a href="https://github.com/Torehirth/posteria"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=posteria&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="Posteria"></a>
 <a href="https://github.com/Torehirth/portfolio"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=portfolio&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
 <a href="https://github.com/Torehirth/out-n-about"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=out-n-about&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="portfolio"></a>
