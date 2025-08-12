@@ -19,9 +19,7 @@ With several years of experience as a mechanic and customer service advisor, I h
 
 I have a genuine passion for design, development, and technology, and I am now seeking an opportunity where I can contribute my skills, continue learning, and grow as a developer.
 
-You can view my portfolio here: www.torehirth.no</p>
-<p></p>
-<p></p>
+You can view my portfolio here: [Torehirth.no](https://www.torehirth.no)</p>
 
 <br/>
 
