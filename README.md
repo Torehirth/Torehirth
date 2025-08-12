@@ -13,9 +13,15 @@
 
 <!-- About me -->
 <h2 align="left"><img style="width: 20px;" src="https://github.com/user-attachments/assets/e2d941bb-6c1a-42df-bd75-bca7cbff2bbe" alt="Brand logo shaped as a T" />  About me</h2>
-<li align="left">Aggriculture mechanic turning front-end developer! 🚀</li>
-<li align="left">Currently following Noroff's front-end development study program and diving into React outside of this 🧑‍💻</li>
-<li align="left"> I love being creative and learning new things, and I've always been interested in tech! 🎨</li>
+<p>I am currently in my final year of a Front-End Development program, where I continue to strengthen my skills in HTML, CSS, JavaScript, Git, and other technologies. My studies are project-driven, and I have designed and built several websites and web applications, with a strong focus on responsive design and web accessibility (WCAG).
+
+With several years of experience as a mechanic and customer service advisor, I have learned how to explain technical challenges in a clear and understandable way. This blend of technical problem-solving and customer-focused communication is something I bring into my work as a developer.
+
+I have a genuine passion for design, development, and technology, and I am now seeking an opportunity where I can contribute my skills, continue learning, and grow as a developer.
+
+You can view my portfolio here: www.torehirth.no</p>
+<p></p>
+<p></p>
 
 <br/>
 
