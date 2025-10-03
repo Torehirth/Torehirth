@@ -17,9 +17,9 @@
 
 With several years of experience as a mechanic and customer service advisor, I have learned how to explain technical challenges in a clear and understandable way. This blend of technical problem-solving and customer-focused communication is something I bring into my work as a developer.
 
-I have a genuine passion for design, development, and technology, and I am now seeking an opportunity where I can contribute my skills, continue learning, and grow as a developer.
+I have a genuine passion for design, development, and technology, and I am now seeking an opportunity where I can contribute my skills, continue learning, and grow as a developer.</p>
 
-You can view my portfolio here: [Torehirth.no](https://www.torehirth.no)</p>
+<p>You can view my portfolio here: [Torehirth.no](https://www.torehirth.no)
 <br>
 or
 <br>
