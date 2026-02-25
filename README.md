@@ -31,7 +31,7 @@ or
 <details open> 
   <summary><h2>👨‍💻 My ongoing Projects</h2></summary>  
 <p align="left">
-<a href="https://github.com/NoroffFEU/jsfw-2025-v1-devduo"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=HelTech&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="HelTech online shop"></a>
+<a href="https://github.com/NoroffFEU/jsfw-2025-v1-devduo/tree/main"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=HelTech&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="HelTech online shop"></a>
 <a href="https://github.com/Torehirth/development-platforms-ca"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=development-platforms-ca&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="development-platforms-ca"></a>
 <a href="https://github.com/Torehirth/Bid-Rally"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=Bid-Rally&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="Bid Rally"></a>
 <a href="https://github.com/Torehirth/posteria"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=Torehirth&repo=posteria&theme=react&bg_color=0d1117&title_color=F22C50&hide_border=false&border_color=30363d&icon_color=e6edf3&show_icons=true" alt="Posteria"></a>
