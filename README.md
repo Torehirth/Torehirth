@@ -56,7 +56,7 @@ or
 <table>
   <tr>
     <td width="500px">
-<img src="https://img.shields.io/badge/TypeScript-212121.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E" alt="TypeScript">
+<img src="https://img.shields.io/badge/TypeScript-212121.svg?style=for-the-badge&logo=typescript&logoColor=%230075B7" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-212121.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-212121.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3">
