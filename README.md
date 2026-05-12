@@ -55,7 +55,7 @@ or
 <h2 align="left">💾 Languages and Tools</h2>
 <table>
   <tr>
-    <td width="500px">
+    <td >
 <img src="https://img.shields.io/badge/React-212121.svg?style=for-the-badge&logo=react&logoColor=%230075B7" alt="React">
 <img src="https://img.shields.io/badge/TypeScript-212121.svg?style=for-the-badge&logo=typescript&logoColor=%230075B7" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -71,12 +71,9 @@ or
 <img src="https://img.shields.io/badge/WordPress-212121.svg?style=for-the-badge&logo=WordPress&logoColor=%23117AC9" alt="WordPress">
 <img src="https://img.shields.io/badge/GitHub-212121.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
-    <br/>
-    <td width="450px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torehirth&langs_count=6&title_color=e6edf3&text_color=e6edf3&icon_color=e6edf3&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en&custom_title=Most%20%used" alt="Top Languages" />
-    </td>
   </tr>
 </table>
+
 
 
 
