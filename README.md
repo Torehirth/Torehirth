@@ -17,10 +17,10 @@ conflicts without a backend I controlled.
 
 **[HelTech](https://heltech.netlify.app/)** — Frontend webshop built with React, TypeScript, Vite, and Redux. Managing cart and checkout state across pages was the main challenge here.
 
-**[Out n' About](https://tmh-outnabout.netlify.app/)** — Blog site built with vanilla JavaScript and the WordPress REST API, from my first-year exam at Noroff. Fetching and rendering posts without a framework meant handling a lot of the DOM updates manually.
+**[BidRally](https://torehirth.github.io/Bid-Rally/)** — Auction platform built with Vite, Tailwind CSS and vanilla JavaScript against the Noroff API, with JWT authentication. Handling bid state and auth without a framework was the main challenge — also my first project with automated tests (Vitest, Playwright).
 
 ## Currently
 Eager to find my first developer role.
 
 ## Get in touch
-[Portfolio](http://torehirth.no) · [LinkedIn](https://www.linkedin.com/in/torehirth/)
+[Portfolio](https://torehirth.no) · [LinkedIn](https://www.linkedin.com/in/torehirth/)
