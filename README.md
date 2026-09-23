@@ -3,10 +3,10 @@
 Frontend developer with a fagskole diploma from Noroff, working mainly in
 React and TypeScript.
 
-I spent years in customer service and as a mechanic before this, doing a
-lot of work figuring out what people actually needed — not just what they
-said. That's turned out to be useful in development too, especially when
-requirements are vague, or user needs aren't obvious.
+Before this, I spent years in customer service and as a mechanic — a lot
+of the job was figuring out what people actually needed and communicating
+it clearly to the right person. That instinct carries over well into
+development, especially when requirements aren't fully spelt out.
 
 ## Projects
 (School projects)
