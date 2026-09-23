@@ -15,7 +15,7 @@ development, especially when requirements aren't fully spelt out.
 Final exam project. The tricky part was handling auth state and booking
 conflicts without a backend I controlled.
 
-**[HelTech](heltech.netlify.app/)** — Frontend webshop built with React, TypeScript, Vite, and Redux as part of a school assignment.
+**[HelTech](https://heltech.netlify.app/)** — Frontend webshop built with React, TypeScript, Vite, and Redux as part of a school assignment.
 
 **[Out n' About](https://tmh-outnabout.netlify.app/)** — A blog website created as part of the first-year exam at Noroff. Built with vanilla JavaScript and the WordPress REST API.
 
