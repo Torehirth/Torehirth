@@ -9,6 +9,7 @@ said. That's turned out to be useful in development too, especially when
 requirements are vague, or user needs aren't obvious.
 
 ## Projects
+(School projects)
 
 **[Holidaze](https://tmh-holidaze.netlify.app/)** — accommodation booking app, React + TypeScript.
 Final exam project. The tricky part was handling auth state and booking
@@ -18,7 +19,6 @@ conflicts without a backend I controlled.
 
 **[Out n' About](https://tmh-outnabout.netlify.app/)** — A blog website created as part of the first-year exam at Noroff. Built with vanilla JavaScript and the WordPress REST API.
 
-Both are school projects — personal projects coming soon.
 
 ## Currently
 Eager to find my first developer role.
