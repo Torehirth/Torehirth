@@ -9,16 +9,15 @@ it clearly to the right person. That instinct carries over well into
 development, especially when requirements aren't fully spelt out.
 
 ## Projects
-(School projects)
+*All school projects for now — personal projects coming soon*
 
 **[Holidaze](https://tmh-holidaze.netlify.app/)** — accommodation booking app, React + TypeScript.
 Final exam project. The tricky part was handling auth state and booking
 conflicts without a backend I controlled.
 
-**[HelTech](https://heltech.netlify.app/)** — Frontend webshop built with React, TypeScript, Vite, and Redux as part of a school assignment.
+**[HelTech](https://heltech.netlify.app/)** — Frontend webshop built with React, TypeScript, Vite, and Redux. Managing cart and checkout state across pages was the main challenge here.
 
-**[Out n' About](https://tmh-outnabout.netlify.app/)** — A blog website created as part of the first-year exam at Noroff. Built with vanilla JavaScript and the WordPress REST API.
-
+**[Out n' About](https://tmh-outnabout.netlify.app/)** — Blog site built with vanilla JavaScript and the WordPress REST API, from my first-year exam at Noroff. Fetching and rendering posts without a framework meant handling a lot of the DOM updates manually.
 
 ## Currently
 Eager to find my first developer role.
