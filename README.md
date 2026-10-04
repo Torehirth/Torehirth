@@ -1,7 +1,6 @@
 # Tore M. Hirth
 
-Frontend developer with a fagskole diploma from Noroff, working mainly in
-React and TypeScript.
+Frontend developer with a higher education diploma in Front-End Development from Noroff, working mainly with React and TypeScript.
 
 Before this, I spent years in customer service and as a mechanic — a lot
 of the job was figuring out what people actually needed and communicating
